@@ -1,0 +1,6 @@
+.DS_Store
+.env
+node_modules
+dist
+json/database.js
+json/database-hidden.js
